@@ -3,5 +3,5 @@ Um aplicativo de metas, testando funções do React Native, o aplicativo funcion
 A goals app, testing React Native functions, the app works simply, you enter a goal and it is available on the home page for viewing.
 
 <p align="center">
-  <img width="760" height="290" src="assets/ezgif.com-gif-maker.gif" >
+  <img  src="assets/ezgif.com-gif-maker.gif" >
  </p>
